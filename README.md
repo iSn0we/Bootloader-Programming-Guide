@@ -11,3 +11,9 @@ Assembler/Assembly in first place. I may or may not add any other implementation
 ## How is this structured?
 
 This Guide is splitted in multiple parts. You can find a list of every parts name and it's content right here.
+
+| Part1 	| Requirement setup.                  	|
+|-------	|-------------------------------------	|
+| Part2 	| Assembly basics and hello world!    	|
+| Part3 	| Mouse and Keyboard implementation.  	|
+| Part4 	| Running modules and inserting text. 	|
